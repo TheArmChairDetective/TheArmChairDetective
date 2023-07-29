@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheArmChairDetective
-- 👀 I’m interested in Computers,Cybersecurity,OSINT,python,JS,WArdriving, all things wifi and PUBG.
+- 👀 I’m interested in Computers,Cybersecurity,OSINT,python,JS,Wardriving, drones,all things wifi and PUBG.
 - 🌱 I’m currently learning JS, Python and Web Applications.
 - 💞️ I’m looking to collaborate on wardriving...
 - 📫 How to reach me @TACDetective on the "Bird"
